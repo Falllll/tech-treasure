@@ -12,38 +12,38 @@
 Tech Treasure is a feature-rich e-commerce platform dedicated to bringing the latest and greatest in technology to enthusiasts around the world. From state-of-the-art gadgets to powerful laptops and trendy accessories, Tech Treasure is the ultimate destination for tech aficionados.
 
 <p><strong>Key Features:</strong></p>
-<p>Role-Based Access:</p>
-Tailored experiences for users, administrators, agents, and marketers, ensuring a personalized journey for each role.
+<p><strong>Role-Based Access:</strong>
+Tailored experiences for users, administrators, agents, and marketers, ensuring a personalized journey for each role.</p>
 
-<p>Seamless Shopping Experience:</p>
-An intuitive and user-friendly platform for effortless navigation, secure transactions, and a delightful shopping experience.
+<p><strong>Seamless Shopping Experience:</strong>
+An intuitive and user-friendly platform for effortless navigation, secure transactions, and a delightful shopping experience.</p>
 
-<p>Admin Power Tools:</p>
-Empower administrators with easy product management, order processing, and insightful sales analytics.
+<p><strong>Admin Power Tools:</strong>
+Empower administrators with easy product management, order processing, and insightful sales analytics.</p>
 
-<p>Agent Support Center:</p>
-Dedicated features for agents to assist customers, manage support requests, and handle returns and exchanges efficiently.
+<p><strong>Agent Support Center:</strong>
+Dedicated features for agents to assist customers, manage support requests, and handle returns and exchanges efficiently.</p>
 
-<p>Marketing Mastery:</p>
-Creative tools for marketers to craft and execute compelling promotional campaigns, manage discount codes, and analyze customer engagement.
+<p><strong>Marketing Mastery:</strong>
+Creative tools for marketers to craft and execute compelling promotional campaigns, manage discount codes, and analyze customer engagement.</p>
 
-<p>Responsive Design:</p>
-User-friendly interfaces designed for both mobile and desktop users, ensuring a smooth experience on any device.
+<p><strong>Responsive Design:</strong>
+User-friendly interfaces designed for both mobile and desktop users, ensuring a smooth experience on any device.</p>
 
 
 ## Getting Started:
 
-<p>Installation:</p>
-Follow the installation instructions in our documentation to set up Tech Treasure on your local environment.
+<p><strong>Installation:</strong>
+Follow the installation instructions in our documentation to set up Tech Treasure on your local environment.</p>
 
-<p>Customization:</p>
-Dive into the codebase to customize and tailor Tech Treasure to your specific needs. From UI adjustments to backend tweaks, make it your own.
+<p><strong>Customization:</strong>
+Dive into the codebase to customize and tailor Tech Treasure to your specific needs. From UI adjustments to backend tweaks, make it your own.</p>
 
-<p>Contribution:</p>
-We welcome contributions! If you have ideas, bug fixes, or improvements, please open an issue or submit a pull request. Check out our Contribution Guidelines for more details.
+<p><strong>Contribution:</strong>
+We welcome contributions! If you have ideas, bug fixes, or improvements, please open an issue or submit a pull request. Check out our Contribution Guidelines for more details.</p>
 
-<p>Documentation:</p>
-Explore our comprehensive documentation to understand the project structure, features, and best practices.
+<p><strong>Documentation:</strong>
+Explore our comprehensive documentation to understand the project structure, features, and best practices.</p>
 
 ## Tech Stack:
 
